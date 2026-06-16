@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📚 Livraria Recordação
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js-16.x-black?logo=next.js)
+![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-06B6D4?logo=tailwindcss)
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-green)
 
-First, run the development server:
+Site moderno e responsivo para apresentação de livros, com catálogo de produtos, carrossel de banners e página de contato com mapa interativo.
+
+---
+
+## 🔗 Links úteis
+
+- [Acesse o site](http://localhost:3000)
+- [Repositório do projeto](#)
+
+---
+
+## 🌟 Demonstração
+
+O projeto pode ser executado localmente com o comando abaixo e visualizado no navegador.
+
+---
+
+## 📚 Funcionalidades
+
+✔ Catálogo de produtos com cards visuais
+✔ Página inicial com carrossel de banners
+✔ Navegação entre páginas de home, produtos e contato
+✔ Design responsivo para diferentes telas
+✔ Estilização moderna com Tailwind CSS e shadcn/ui
+✔ Página de contato com formulário e mapa usando React Leaflet
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- Embla Carousel
+- Leaflet / React Leaflet
+- Lucide React
+
+---
+
+## 📂 Estrutura do projeto
+
+```text
+livraria-recordacao
+├── src/
+│   ├── app/
+│   ├── components/
+│   └── lib/
+├── public/
+├── produtos.json
+└── package.json
+```
+
+---
+
+## 🚀 Como usar
+
+1. Clone o repositório
+2. Instale as dependências:
+
+```bash
+npm install
+```
+
+3. Inicie o servidor de desenvolvimento:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Acesse no navegador:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000/
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ⚠️ Observações
 
-To learn more about Next.js, take a look at the following resources:
+- O formulário de contato está em modo de demonstração e usa alerta para envio.
+- Futuras melhorias incluem página de detalhes do produto, carrinho de compras e integração de backend.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 👨‍💻 Autor
 
-## Deploy on Vercel
+Vinícius Mariozi Oliveira
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Projeto desenvolvido como exemplo de site comercial com Next.js.
