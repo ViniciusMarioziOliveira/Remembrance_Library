@@ -1,324 +1,326 @@
 [
-{
-"id": 1,
-"title": "O Avesso da Pele",
-"description": "Romance de Jeferson Tenório que aborda identidade, racismo e relações familiares através da trajetória de uma família negra no Brasil.",
-"price": 49.90,
-"imageSrc": "/produtos/O Avesso da Pele.png",
-"destaque": true
-},
-
-{
-"id": 2,
-"title": "O Cortiço",
-"description": "Clássico naturalista de Aluísio Azevedo que retrata a vida em um cortiço carioca e as influências do ambiente sobre seus moradores.",
-"price": 34.90,
-"imageSrc": "/produtos/O Cortiço.png",
-"destaque": false
-},
-
-{
-"id": 3,
-"title": "O Homem de Giz",
-"description": "Suspense psicológico de C. J. Tudor envolvendo um misterioso crime do passado e mensagens feitas com desenhos de giz.",
-"price": 44.90,
-"imageSrc": "/produtos/O Homem de Giz.png",
-"destaque": false
-},
-
-{
-"id": 4,
-"title": "Os Miseráveis",
-"description": "Obra-prima de Victor Hugo que acompanha a jornada de Jean Valjean em uma história sobre justiça, redenção e desigualdade social.",
-"price": 59.90,
-"imageSrc": "/produtos/Os Miseráveis.png",
-"destaque": false
-},
-
-{
-"id": 5,
-"title": "O Pequeno Príncipe",
-"description": "Clássico de Antoine de Saint-Exupéry repleto de reflexões sobre amizade, amor, imaginação e o significado da vida.",
-"price": 29.90,
-"imageSrc": "/produtos/O Pequeno Príncipe.png",
-"destaque": false
-},
-{
-"id": 6,
-"title": "Dom Casmurro",
-"description": "Romance clássico de Machado de Assis que narra a história de Bentinho e sua relação marcada por ciúmes e dúvidas sobre Capitu.",
-"price": 39.90,
-"imageSrc": "/produtos/Dom Casmurro.png",
-"destaque": false
-},
-
-{
-"id": 7,
-"title": "Memórias Póstumas de Brás Cubas",
-"description": "Obra inovadora de Machado de Assis narrada por um defunto autor que revisita sua vida com humor e crítica social.",
-"price": 42.90,
-"imageSrc": "/produtos/Memórias Póstumas de Brás Cubas.png",
-"destaque": false
-},
-
-{
-"id": 8,
-"title": "Capitães da Areia",
-"description": "Jorge Amado retrata a vida de crianças abandonadas que sobrevivem nas ruas de Salvador.",
-"price": 38.90,
-"imageSrc": "/produtos/Capitães da Areia.png",
-"destaque": false
-},
-
-{
-"id": 9,
-"title": "Grande Sertão: Veredas",
-"description": "Clássico de João Guimarães Rosa que explora o sertão brasileiro e questões existenciais profundas.",
-"price": 54.90,
-"imageSrc": "/produtos/Grande Sertão Veredas.png",
-"destaque": false
-},
-
-{
-"id": 10,
-"title": "Vidas Secas",
-"description": "Romance de Graciliano Ramos que retrata a dura realidade das famílias sertanejas diante da seca.",
-"price": 36.90,
-"imageSrc": "/produtos/Vidas Secas.png",
-"destaque": false
-},
-
-{
-"id": 11,
-"title": "A Revolução dos Bichos",
-"description": "Sátira política de George Orwell sobre poder, manipulação e regimes autoritários.",
-"price": 32.90,
-"imageSrc": "/produtos/A Revolução dos Bichos.png",
-"destaque": false
-},
-
-{
-"id": 12,
-"title": "1984",
-"description": "Distopia de George Orwell que apresenta uma sociedade controlada pela vigilância constante do Estado.",
-"price": 45.90,
-"imageSrc": "/produtos/1984.png",
-"destaque": true
-},
-
-{
-"id": 13,
-"title": "Fahrenheit 451",
-"description": "Romance distópico de Ray Bradbury onde livros são proibidos e queimados pelo governo.",
-"price": 43.90,
-"imageSrc": "/produtos/Fahrenheit 451.png",
-"destaque": false
-},
-
-{
-"id": 14,
-"title": "Admirável Mundo Novo",
-"description": "Aldous Huxley imagina uma sociedade futurista baseada em controle social e engenharia genética.",
-"price": 47.90,
-"imageSrc": "/produtos/Admirável Mundo Novo.png",
-"destaque": false
-},
-
-{
-"id": 15,
-"title": "A Metamorfose",
-"description": "Franz Kafka narra a transformação de Gregor Samsa em um inseto gigante e suas consequências.",
-"price": 29.90,
-"imageSrc": "/produtos/A Metamorfose.png",
-"destaque": false
-},
-
-{
-"id": 16,
-"title": "Crime e Castigo",
-"description": "Dostoiévski explora culpa, moralidade e redenção através de um assassinato cometido por um estudante.",
-"price": 56.90,
-"imageSrc": "/produtos/Crime e Castigo.png",
-"destaque": false
-},
-
-{
-"id": 17,
-"title": "Orgulho e Preconceito",
-"description": "Jane Austen apresenta uma história envolvente sobre amor, sociedade e costumes ingleses.",
-"price": 39.90,
-"imageSrc": "/produtos/Orgulho e Preconceito.png",
-"destaque": false
-},
-
-{
-"id": 18,
-"title": "Jane Eyre",
-"description": "Clássico de Charlotte Brontë que acompanha a trajetória de independência de uma jovem órfã.",
-"price": 41.90,
-"imageSrc": "/produtos/Jane Eyre.png",
-"destaque": false
-},
-
-{
-"id": 19,
-"title": "Drácula",
-"description": "Obra de Bram Stoker que popularizou a figura do vampiro na literatura moderna.",
-"price": 37.90,
-"imageSrc": "/produtos/Drácula.png",
-"destaque": false
-},
-
-{
-  "id": 20,
-  "title": "Berserk Vol. 1",
-  "description": "A sombria e épica jornada de Guts, o Espadachim Negro, em um mundo de fantasia sombria assolado por demônios.",
-  "price": 39.90,
-  "imageSrc": "/produtos/Berserk.png",
-  "destaque": true
-},
-
-{
-"id": 21,
-"title": "O Hobbit",
-"description": "Aventura fantástica de J. R. R. Tolkien sobre a jornada de Bilbo Bolseiro pela Terra-média.",
-"price": 49.90,
-"imageSrc": "/produtos/O Hobbit.png",
-"destaque": true
-},
-
-{
-"id": 22,
-"title": "A Sociedade do Anel",
-"description": "Primeiro volume de O Senhor dos Anéis, acompanhando Frodo em sua missão épica.",
-"price": 59.90,
-"imageSrc": "/produtos/A Sociedade do Anel.png",
-"destaque": false
-},
-
-{
-"id": 23,
-"title": "As Duas Torres",
-"description": "Continuação da saga de Tolkien, com batalhas decisivas e novos desafios para a Sociedade.",
-"price": 59.90,
-"imageSrc": "/produtos/As Duas Torres.png",
-"destaque": false
-},
-
-{
-"id": 24,
-"title": "O Retorno do Rei",
-"description": "Desfecho épico da trilogia O Senhor dos Anéis com a batalha final pela Terra-média.",
-"price": 59.90,
-"imageSrc": "/produtos/O Retorno do Rei.png",
-"destaque": false
-},
-
-{
-"id": 25,
-"title": "Harry Potter e a Pedra Filosofal",
-"description": "Primeiro livro da série de J. K. Rowling que apresenta o mundo mágico de Hogwarts.",
-"price": 44.90,
-"imageSrc": "/produtos/Harry Potter e a Pedra Filosofal.png",
-"destaque": true
-},
-
-{
-"id": 26,
-"title": "Harry Potter e a Câmara Secreta",
-"description": "Harry retorna a Hogwarts para desvendar um mistério que ameaça a escola.",
-"price": 44.90,
-"imageSrc": "/produtos/Harry Potter e a Câmara Secreta.png",
-"destaque": false
-},
-
-{
-"id": 27,
-"title": "Percy Jackson e o Ladrão de Raios",
-"description": "Rick Riordan mistura mitologia grega e aventura em uma jornada eletrizante.",
-"price": 39.90,
-"imageSrc": "/produtos/Percy Jackson e o Ladrão de Raios.png",
-"destaque": false
-},
-
-{
-"id": 28,
-"title": "Jogos Vorazes",
-"description": "Suzanne Collins apresenta uma competição mortal em uma sociedade distópica.",
-"price": 46.90,
-"imageSrc": "/produtos/Jogos Vorazes.png",
-"destaque": false
-},
-
-{
-"id": 29,
-"title": "Em Chamas",
-"description": "Continuação da saga Jogos Vorazes, com novos desafios para Katniss Everdeen.",
-"price": 46.90,
-"imageSrc": "/produtos/Em Chamas.png",
-"destaque": false
-},
-
-{
-"id": 30,
-"title": "A Esperança",
-"description": "Último volume da trilogia Jogos Vorazes, focado na revolução contra a Capital.",
-"price": 46.90,
-"imageSrc": "/produtos/A Esperança.png",
-"destaque": false
-},
-
-{
-"id": 31,
-"title": "A Menina que Roubava Livros",
-"description": "Markus Zusak narra uma emocionante história ambientada durante a Segunda Guerra Mundial.",
-"price": 42.90,
-"imageSrc": "/produtos/A Menina que Roubava Livros.png",
-"destaque": false
-},
-
-{
-"id": 32,
-"title": "Extraordinário",
-"description": "R. J. Palacio aborda empatia e inclusão através da história de um garoto com deformidade facial.",
-"price": 34.90,
-"imageSrc": "/produtos/Extraordinário.png",
-"destaque": false
-},
-
-{
-"id": 33,
-"title": "O Código Da Vinci",
-"description": "Thriller de Dan Brown envolvendo símbolos religiosos, mistérios históricos e conspirações.",
-"price": 48.90,
-"imageSrc": "/produtos/O Código Da Vinci.png",
-"destaque": false
-},
-
-{
-"id": 34,
-"title": "Anjos e Demônios",
-"description": "Suspense de Dan Brown que mistura ciência, religião e sociedades secretas.",
-"price": 47.90,
-"imageSrc": "/produtos/Anjos e Demônios.png",
-"destaque": false
-},
-
-{
-"id": 35,
-"title": "O Alquimista",
-"description": "Paulo Coelho apresenta uma jornada espiritual sobre sonhos e destino.",
-"price": 31.90,
-"imageSrc": "/produtos/O Alquimista.png",
-"destaque": true
-},
-
-{
-"id": 36,
-"title": "Umamusume: Cinderella Gray Vol. 1",
-"description": "Primeiro volume do mangá spin-off de Umamusume: Pretty Derby, acompanhando a trajetória de Oguri Cap desde seus primeiros passos até o início de sua lenda nas pistas. Publicado originalmente em 2021 e serializado na Weekly Young Jump.",
-"price": 39.90,
-"imageSrc": "/produtos/Umamusume Cinderella Gray.png",
-"destaque": true
-}
+  {
+    "id": 1,
+    "title": "O Avesso da Pele",
+    "description": "Romance de Jeferson Tenório que aborda identidade, racismo e relações familiares através da trajetória de uma família negra no Brasil.",
+    "price": 49.90,
+    "imageSrc": "/produtos/O Avesso da Pele.png",
+    "destaque": true,
+    "category": "Romance"
+  },
+  {
+    "id": 2,
+    "title": "O Cortiço",
+    "description": "Clássico naturalista de Aluísio Azevedo que retrata a vida em um cortiço carioca e as influências do ambiente sobre seus moradores.",
+    "price": 34.90,
+    "imageSrc": "/produtos/O Cortiço.png",
+    "destaque": false,
+    "category": "Literatura Clássica"
+  },
+  {
+    "id": 3,
+    "title": "O Homem de Giz",
+    "description": "Suspense psicológico de C. J. Tudor envolvendo um misterioso crime do passado e mensagens feitas com desenhos de giz.",
+    "price": 44.90,
+    "imageSrc": "/produtos/O Homem de Giz.png",
+    "destaque": false,
+    "category": "Suspense"
+  },
+  {
+    "id": 4,
+    "title": "Os Miseráveis",
+    "description": "Obra-prima de Victor Hugo que acompanha a jornada de Jean Valjean em uma história sobre justiça, redenção e desigualdade social.",
+    "price": 59.90,
+    "imageSrc": "/produtos/Os Miseráveis.png",
+    "destaque": false,
+    "category": "Literatura Clássica"
+  },
+  {
+    "id": 5,
+    "title": "O Pequeno Príncipe",
+    "description": "Clássico de Antoine de Saint-Exupéry repleto de reflexões sobre amizade, amor, imaginação e o significado da vida.",
+    "price": 29.90,
+    "imageSrc": "/produtos/O Pequeno Príncipe.png",
+    "destaque": false,
+    "category": "Infanto-Juvenil"
+  },
+  {
+    "id": 6,
+    "title": "Dom Casmurro",
+    "description": "Romance clássico de Machado de Assis que narra a história de Bentinho e sua relação marcada por ciúmes e dúvidas sobre Capitu.",
+    "price": 39.90,
+    "imageSrc": "/produtos/Dom Casmurro.png",
+    "destaque": false,
+    "category": "Romance"
+  },
+  {
+    "id": 7,
+    "title": "Memórias Póstumas de Brás Cubas",
+    "description": "Obra inovadora de Machado de Assis narrada por um defunto autor que revisita sua vida com humor e crítica social.",
+    "price": 42.90,
+    "imageSrc": "/produtos/Memórias Póstumas de Brás Cubas.png",
+    "destaque": false,
+    "category": "Literatura Clássica"
+  },
+  {
+    "id": 8,
+    "title": "Capitães da Areia",
+    "description": "Jorge Amado retrata a vida de crianças abandonadas que sobrevivem nas ruas de Salvador.",
+    "price": 38.90,
+    "imageSrc": "/produtos/Capitães da Areia.png",
+    "destaque": false,
+    "category": "Romance"
+  },
+  {
+    "id": 9,
+    "title": "Grande Sertão: Veredas",
+    "description": "Clássico de João Guimarães Rosa que explora o sertão brasileiro e questões existenciais profundas.",
+    "price": 54.90,
+    "imageSrc": "/produtos/Grande Sertão Veredas.png",
+    "destaque": false,
+    "category": "Literatura Clássica"
+  },
+  {
+    "id": 10,
+    "title": "Vidas Secas",
+    "description": "Romance de Graciliano Ramos que retrata a dura realidade das famílias sertanejas diante da seca.",
+    "price": 36.90,
+    "imageSrc": "/produtos/Vidas Secas.png",
+    "destaque": false,
+    "category": "Romance"
+  },
+  {
+    "id": 11,
+    "title": "A Revolution dos Bichos",
+    "description": "Sátira política de George Orwell sobre poder, manipulação e regimes autoritários.",
+    "price": 32.90,
+    "imageSrc": "/produtos/A Revolução dos Bichos.png",
+    "destaque": false,
+    "category": "Sátira Política"
+  },
+  {
+    "id": 12,
+    "title": "1984",
+    "description": "Distopia de George Orwell que apresenta uma sociedade controlada pela vigilância constante do Estado.",
+    "price": 45.90,
+    "imageSrc": "/produtos/1984.png",
+    "destaque": true,
+    "category": "Distopia"
+  },
+  {
+    "id": 13,
+    "title": "Fahrenheit 451",
+    "description": "Romance distópico de Ray Bradbury onde livros são proibidos e queimados pelo governo.",
+    "price": 43.90,
+    "imageSrc": "/produtos/Fahrenheit 451.png",
+    "destaque": false,
+    "category": "Distopia"
+  },
+  {
+    "id": 14,
+    "title": "Admirável Mundo Novo",
+    "description": "Aldous Huxley imagina uma sociedade futurista baseada em controle social e engenharia genética.",
+    "price": 47.90,
+    "imageSrc": "/produtos/Admirável Mundo Novo.png",
+    "destaque": false,
+    "category": "Distopia"
+  },
+  {
+    "id": 15,
+    "title": "A Metamorfose",
+    "description": "Franz Kafka narra a transformação de Gregor Samsa em um inseto gigante e suas consequências.",
+    "price": 29.90,
+    "imageSrc": "/produtos/A Metamorfose.png",
+    "destaque": false,
+    "category": "Ficção Absurda"
+  },
+  {
+    "id": 16,
+    "title": "Crime e Castigo",
+    "description": "Dostoiévski explora culpa, moralidade e redenção através de um assassinato cometido por um estudante.",
+    "price": 56.90,
+    "imageSrc": "/produtos/Crime e Castigo.png",
+    "destaque": false,
+    "category": "Romance Psicológico"
+  },
+  {
+    "id": 17,
+    "title": "Orgulho e Preconceito",
+    "description": "Jane Austen apresenta uma história envolvendo amor, sociedade e costumes ingleses.",
+    "price": 39.90,
+    "imageSrc": "/produtos/Orgulho e Preconceito.png",
+    "destaque": false,
+    "category": "Romance"
+  },
+  {
+    "id": 18,
+    "title": "Jane Eyre",
+    "description": "Clássico de Charlotte Brontë que acompanha a trajetória de independência de uma jovem órfã.",
+    "price": 41.90,
+    "imageSrc": "/produtos/Jane Eyre.png",
+    "destaque": false,
+    "category": "Romance"
+  },
+  {
+    "id": 19,
+    "title": "Drácula",
+    "description": "Obra de Bram Stoker que popularizou a figura do vampiro na literatura moderna.",
+    "price": 37.90,
+    "imageSrc": "/produtos/Drácula.png",
+    "destaque": false,
+    "category": "Terror"
+  },
+  {
+    "id": 20,
+    "title": "Berserk Vol. 1",
+    "description": "A sombria e épica jornada de Guts, o Espadachim Negro, em um mundo de fantasia sombria assolado por demônios.",
+    "price": 39.90,
+    "imageSrc": "/produtos/Berserk.png",
+    "destaque": true,
+    "category": "Mangá / Fantasia Sombria"
+  },
+  {
+    "id": 21,
+    "title": "O Hobbit",
+    "description": "Aventura fantástica de J. R. R. Tolkien sobre a jornada de Bilbo Bolseiro pela Terra-média.",
+    "price": 49.90,
+    "imageSrc": "/produtos/O Hobbit.png",
+    "destaque": true,
+    "category": "Fantasia"
+  },
+  {
+    "id": 22,
+    "title": "A Sociedade do Anel",
+    "description": "Primeiro volume de O Senhor dos Anéis, acompanhando Frodo em sua missão épica.",
+    "price": 59.90,
+    "imageSrc": "/produtos/A Sociedade do Anel.png",
+    "destaque": false,
+    "category": "Fantasia"
+  },
+  {
+    "id": 23,
+    "title": "As Duas Torres",
+    "description": "Continuação da saga de Tolkien, com batalhas decisivas e novos desafios para a Sociedade.",
+    "price": 59.90,
+    "imageSrc": "/produtos/As Duas Torres.png",
+    "destaque": false,
+    "category": "Fantasia"
+  },
+  {
+    "id": 24,
+    "title": "O Retorno do Rei",
+    "description": "Desfecho épico da trilogia O Senhor dos Anéis com a batalha final pela Terra-média.",
+    "price": 59.90,
+    "imageSrc": "/produtos/O Retorno do Rei.png",
+    "destaque": false,
+    "category": "Fantasia"
+  },
+  {
+    "id": 25,
+    "title": "Harry Potter e a Pedra Filosofal",
+    "description": "Primeiro livro da série de J. K. Rowling que apresenta o mundo mágico de Hogwarts.",
+    "price": 44.90,
+    "imageSrc": "/produtos/Harry Potter e a Pedra Filosofal.png",
+    "destaque": true,
+    "category": "Fantasia / Infanto-Juvenil"
+  },
+  {
+    "id": 26,
+    "title": "Harry Potter e a Câmara Secreta",
+    "description": "Harry retorna a Hogwarts para desvendar um mistério que ameaça a escola.",
+    "price": 44.90,
+    "imageSrc": "/produtos/Harry Potter e a Câmara Secreta.png",
+    "destaque": false,
+    "category": "Fantasia / Infanto-Juvenil"
+  },
+  {
+    "id": 27,
+    "title": "Percy Jackson e o Ladrão de Raios",
+    "description": "Rick Riordan mistura mitologia grega e aventura em uma jornada eletrizante.",
+    "price": 39.90,
+    "imageSrc": "/produtos/Percy Jackson e o Ladrão de Raios.png",
+    "destaque": false,
+    "category": "Aventura / Fantasia"
+  },
+  {
+    "id": 28,
+    "title": "Jogos Vorazes",
+    "description": "Suzanne Collins apresenta uma competição mortal em uma sociedade distópica.",
+    "price": 46.90,
+    "imageSrc": "/produtos/Jogos Vorazes.png",
+    "destaque": false,
+    "category": "Distopia / Ação"
+  },
+  {
+    "id": 29,
+    "title": "Em Chamas",
+    "description": "Continuação da saga Jogos Vorazes, com novos desafios para Katniss Everdeen.",
+    "price": 46.90,
+    "imageSrc": "/produtos/Em Chamas.png",
+    "destaque": false,
+    "category": "Distopia / Ação"
+  },
+  {
+    "id": 30,
+    "title": "A Esperança",
+    "description": "Último volume da trilogia Jogos Vorazes, focado na revolução contra a Capital.",
+    "price": 46.90,
+    "imageSrc": "/produtos/A Esperança.png",
+    "destaque": false,
+    "category": "Distopia / Ação"
+  },
+  {
+    "id": 31,
+    "title": "A Menina que Roubava Livros",
+    "description": "Markus Zusak narra uma emocionante história ambientada durante a Segunda Guerra Mundial.",
+    "price": 42.90,
+    "imageSrc": "/produtos/A Menina que Roubava Livros.png",
+    "destaque": false,
+    "category": "Drama / Ficção Histórica"
+  },
+  {
+    "id": 32,
+    "title": "Extraordinário",
+    "description": "R. J. Palacio aborda empatia e inclusão através da história de um garoto com deformidade facial.",
+    "price": 34.90,
+    "imageSrc": "/produtos/Extraordinário.png",
+    "destaque": false,
+    "category": "Drama"
+  },
+  {
+    "id": 33,
+    "title": "O Código Da Vinci",
+    "description": "Thriller de Dan Brown envolvendo símbolos religiosos, mistérios históricos e conspirações.",
+    "price": 48.90,
+    "imageSrc": "/produtos/O Código Da Vinci.png",
+    "destaque": false,
+    "category": "Suspense / Thriller"
+  },
+  {
+    "id": 34,
+    "title": "Anjos e Demônios",
+    "description": "Suspense de Dan Brown que mistura ciência, religião e sociedades secretas.",
+    "price": 47.90,
+    "imageSrc": "/produtos/Anjos e Demônios.png",
+    "destaque": false,
+    "category": "Suspense / Thriller"
+  },
+  {
+    "id": 35,
+    "title": "O Alquimista",
+    "description": "Paulo Coelho apresenta uma jornada espiritual sobre sonhos e destino.",
+    "price": 31.90,
+    "imageSrc": "/produtos/O Alquimista.png",
+    "destaque": true,
+    "category": "Ficção Filosófica"
+  },
+  {
+    "id": 36,
+    "title": "Umamusume: Cinderella Gray Vol. 1",
+    "description": "Primeiro volume do mangá spin-off de Umamusume: Pretty Derby, acompanhando a trajetória de Oguri Cap desde seus primeiros passos até o início de sua lenda nas pistas. Publicado originalmente em 2021 e serializado na Weekly Young Jump.",
+    "price": 39.90,
+    "imageSrc": "/produtos/Umamusume Cinderella Gray.png",
+    "destaque": true,
+    "category": "Mangá / Esporte"
+  }
 ]
