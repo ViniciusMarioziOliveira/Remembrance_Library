@@ -12,8 +12,7 @@ Site moderno e responsivo para apresentação de livros, com catálogo de produt
 
 ## 🔗 Links úteis
 
-- [Acesse o site](http://localhost:3000)
-- [Repositório do projeto](#)
+- [Acesse o site](https://remembrance-library.vercel.app/)
 
 ---
 
